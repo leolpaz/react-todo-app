@@ -2,58 +2,39 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+On this project I code along this [tutorial](https://ibaslogic.com/react-tutorial-for-beginners/) to get a better understanding of React, specially the router.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
-
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- React
+- CSS
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://leolpaz.github.io/react-todo-app/)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+- Clone the repository with git clone https://github.com/leolpaz/Math-Magicians.git;
+- Install dependencies with npm i;
+- Use npm start to create the dev server;
+- Go to http://localhost:3000/ on your browser if it doesn't do it automatically once you create the dev server
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Leonardo Paz**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Github: [Leonardo Paz](https://github.com/leolpaz)
+- Twitter: [Leonardo Paz](https://twitter.com/leonardolpaz95)
+- Linkedin: [Leonardo Paz](https://www.linkedin.com/in/leonardo-paz-a925611b5/)
 
 ## 🤝 Contributing
 
@@ -68,8 +49,8 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse
+- React documentation
 
 ## 📝 License
 
